@@ -1,0 +1,52 @@
+body{
+    background-image:url('./forest.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#igdtuw{
+    height:70px;
+    width: 70px;
+}
+#steamedu{
+    height:70px;
+    width: 200px;
+}
+#unity{
+    height:70px;
+    width: 70px;
+}
+#git{
+    margin-left:1000px;
+}
+.entrybox{
+    margin:110px;
+    background-color:#E1ECC8;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    padding: 20px;
+    border: solid #EDF1D6 ;
+    border-width: 5px 5px;
+}
+.button {
+    padding:0px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+a:link, a:visited {
+    background-color: #C4D7B2;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:#A0C49D;
+  }
