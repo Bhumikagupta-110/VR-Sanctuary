@@ -116,5 +116,5 @@ Thank you to everyone who has contributed, collaborated, and supported us throug
 ### TEAM DETAILS
 
 1. Bhumika Gupta , AI ML'26, IGDTUW, (Email ID: bhumikag0110@gmail.com , GitHub Profile: https://github.com/Bhumikagupta-110)
-2. Shreya Sisodia, AIML 26, IGDTUW , (Email ID: 
-3. Nishtha Karwal , AIML 26, IGDTUW , Email ID:
+2. Shreya Sisodia, AIML 26, IGDTUW , (Email ID: shreyasisodia5401@gmail.com , GitHub Profile: https://github.com/shreya5401)
+3. Nishtha Karwal , AIML 26, IGDTUW , Email ID: n.karwal004@gmail.com , GitHub Profile: https://github.com/Nishtha1204)
